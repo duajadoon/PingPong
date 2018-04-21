@@ -1,0 +1,11 @@
+body{
+	background-image:url(im.jpg);
+	background-repeat-x: no-repeat;
+background-size:cover;
+}
+.a {
+    border-style: solid;
+    border-color: red;
+		color:green;
+		border-width: 15 px;
+}
