@@ -1,11 +1,25 @@
+/* style background start */
 body{
-	background-image:url(im.jpg);
+	background-image:url('im.jpg');
 	background-repeat-x: no-repeat;
 background-size:cover;
 }
+/*style background end*/
+/* border style start*/
 .a {
     border-style: solid;
     border-color: red;
 		color:green;
 		border-width: 15 px;
 }
+/* border style end*/
+
+	#at {
+	    background: green;
+	    background-repeat: no-repeat;
+	    background-size: cover;
+			padding:15px;
+	}
+	#balls img{
+	float:right;
+	}
